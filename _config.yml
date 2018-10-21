@@ -4,10 +4,10 @@
 # ---------------------------------------------------------------
 
 # Site
-title: NexT
+title: Mandy Q
 subtitle:
 description:
-author: John Doe
+author: Mandy Q
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: en
 date_format: '%Y-%m-%d'
@@ -231,9 +231,9 @@ social_icons:
   Weibo: weibo
 
 
-# Sidebar Avatar
-# in directory: /assets/images/avatar.gif
-#avatar:
+Sidebar Avatar
+in directory: /assets/images/avatar.jpeg
+# avatar:
 
 
 # Table Of Contents in the Sidebar
